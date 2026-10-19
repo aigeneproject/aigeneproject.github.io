@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "assets/branding.html",
+    "href": "assets/branding.html",
+    "title": "AI-GENe Project",
+    "section": "",
+    "text": "#73b263 #3fa073 #078b7c #00757b #205e6e #2f4858\n\n\n\n#73b263 #3e7d32 #dff8d5 #0055b3\n\n\n\n#73b263 #3f4a3c #a3af9e #00b6e1 #0080aa\n\n\n\n#73b263 #005600 #f6edd9 #9999cc"
+  },
+  {
+    "objectID": "assets/branding.html#generic-gradient",
+    "href": "assets/branding.html#generic-gradient",
+    "title": "AI-GENe Project",
+    "section": "",
+    "text": "#73b263 #3fa073 #078b7c #00757b #205e6e #2f4858"
+  },
+  {
+    "objectID": "assets/branding.html#spot-palette",
+    "href": "assets/branding.html#spot-palette",
+    "title": "AI-GENe Project",
+    "section": "",
+    "text": "#73b263 #3e7d32 #dff8d5 #0055b3"
+  },
+  {
+    "objectID": "assets/branding.html#classy-palette",
+    "href": "assets/branding.html#classy-palette",
+    "title": "AI-GENe Project",
+    "section": "",
+    "text": "#73b263 #3f4a3c #a3af9e #00b6e1 #0080aa"
+  },
+  {
+    "objectID": "assets/branding.html#highlight-palette",
+    "href": "assets/branding.html#highlight-palette",
+    "title": "AI-GENe Project",
+    "section": "",
+    "text": "#73b263 #005600 #f6edd9 #9999cc"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "AI Genomics Education Network",
